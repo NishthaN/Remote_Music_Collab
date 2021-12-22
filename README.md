@@ -16,3 +16,8 @@ TCP and UDP.
 chooses and MP3 song stored locally in the server and
 client machines. The song is then played on all clients
 using TCP. 
+
+The publications from this project are also provided as PDFs in this repo.
+
+The work was published as a full paper on IEEE at the COMSNETS 2020 conference available here: https://doi.org/10.1109/COMSNETS48256.2020.9027481
+and as a student poster at the AAAI 2020 conference available here: https://doi.org/10.1609/aaai.v34i10.7214
